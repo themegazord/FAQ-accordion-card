@@ -17,6 +17,9 @@ document.addEventListener('click', (e) => {
                             if(y.classList.contains('question')){
                                 y.classList.remove('selected')
                             }
+                            if(y.classList.contains('rotate')){
+                                y.classList.remove('rotate')
+                            }
                         })
                     }
                 })
