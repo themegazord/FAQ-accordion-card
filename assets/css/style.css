@@ -30,8 +30,6 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    max-width: 1440px;
-    min-width: 375px;
     background: linear-gradient(0deg, rgba(101, 101, 231, 1) 0%, rgba(171, 146, 191, 1) 100%);
 }
 
